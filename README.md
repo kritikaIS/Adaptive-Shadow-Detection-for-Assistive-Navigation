@@ -78,8 +78,3 @@ The ASDS pipeline includes:
 Vellore Institute of Technology, India
 
 ---
-
-## 📜 Citation
-
-If you use this work, please cite:
-
